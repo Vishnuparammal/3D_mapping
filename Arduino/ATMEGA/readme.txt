@@ -1,0 +1,34 @@
+arduino uno to atmega 16/32 pin correspondings:
+
+0	B0
+1	B1
+2	B2
+3	B3
+4	B4
+5	B5
+6	B6
+7	B7
+8	D0
+9	D1
+10	D2
+11	D3
+12	D4
+13	D5
+14	D6
+15	D7
+16	C7
+17	C6
+18	C5
+19	C4
+20	C3
+21	C2
+22	C1
+23	C0
+24	A7	
+25	A6
+26	A5
+27	A4
+28	A3
+29	A2
+30	A1
+31	A0

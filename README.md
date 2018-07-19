@@ -2,8 +2,8 @@
 
 * Arduino
 
-ATMEGA 16/32  codes used to run stepper.
-Wemos codes to run stepper,servo,lidar,esp8266.
+	* ATMEGA 16/32  codes used to run stepper.
+	* Wemos codes to run stepper,servo,lidar,esp8266.
 	
 * Datasheets
 	stepper motor driver - A4988.	
